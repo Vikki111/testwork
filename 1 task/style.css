@@ -1,0 +1,16 @@
+.container {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    background-color: lightgray;
+}
+
+.container-active {
+    background-color: lightgreen;
+}
+
+.item {
+  position: absolute;
+  top: 10%;
+  left: 10%;
+}

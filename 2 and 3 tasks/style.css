@@ -1,0 +1,35 @@
+.num {
+  display: none;
+}
+.paginator {
+  line-height: 150%;
+}
+.paginator > span {
+  display: inline-block;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.paginator-active {
+  color: red;
+}
+
+/*****прелоадер*****/
+
+.loader-area {
+	background: white;
+	overflow: hidden;
+	position: fixed;
+	left: 0;
+	top: 0;
+	right:0;
+	bottom:0;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.loader svg {
+	width: 500px;
+	height: 500px;
+}
+

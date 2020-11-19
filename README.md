@@ -7,6 +7,6 @@ _This will also be italic_
 
 **This text will be bold**
 
-*you **cfn** combine them*
+*you **can** combine them*
 
-Format ![GitHub](https://github.com/)
+[GitHub](https://github.com/)
